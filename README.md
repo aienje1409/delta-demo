@@ -1,2 +1,8 @@
 # delta-demo
-this is demo to gihub class.
+This is demo to gihub class.
+
+# Teacher 
+Shradha khapra
+
+# Student
+Anjali Yadav
